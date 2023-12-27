@@ -1,7 +1,7 @@
 const createFooter = () => {
-  let footer = document.querySelector("footer");
+	let footer = document.querySelector("footer");
 
-  footer.innerHTML = `<div class="footer-content">
+	footer.innerHTML = `<div class="footer-content">
         <img src="img/light-logo.png" class="logo" alt="" />
         <div class="footer-ul-container">
           <ul class="category">
